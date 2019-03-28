@@ -1,1 +1,3 @@
 THIS IS JUST A SIMPLE FILE TO TEST.
+
+I am making a change into file.
