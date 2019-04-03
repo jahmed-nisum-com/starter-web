@@ -8,6 +8,7 @@
 # THANKS
 
     to all my students
+	adding new line here to test stash command.
 
 # TECHNOLOGY COLOPHON
 
